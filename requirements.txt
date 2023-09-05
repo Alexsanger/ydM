@@ -1,0 +1,4 @@
+pygame==2.0.1
+requests==2.26.0
+speechrecognition==3.8.1
+yandex-music==1.1.7
